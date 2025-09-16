@@ -10,3 +10,4 @@ print(y)
 print(message)
 print(msg)
 y = 4.5
+print(y)
